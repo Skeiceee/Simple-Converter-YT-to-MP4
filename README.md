@@ -1,2 +1,2 @@
-# Simple-Converter-YT-to-MP4
+# Simple Converter YT to MP4
 Youtube-dl for dummies
